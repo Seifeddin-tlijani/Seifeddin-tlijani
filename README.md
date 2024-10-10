@@ -9,10 +9,10 @@ I'm a 22-year-old tech enthusiast and third-year student at ENETCOM, passionate 
 ### Technical Skills
 - **Languages:** Java ,JavaEE , JavaScript, TypeScript, C++.
 - **Front-End technologies:** HTML, CSS, Bootstrap, JavaScript, TypeScript. **Frameworks**: Angular, React, Next.js.
-- **Back-end:** Proficient in Spring boot. Familiar with Node.js.
+- **Back-end:** Proficient in Spring boot .Net Familiar with Node.js.
 - **Databases:** Familiar with both SQL and NoSQL (MongoDB), capable of effectively managing both.
 - **Architectural Styles:** MVC,
-- Testing: Experienced with Selenium, Cucumber, BDD, and JUnit.
+- Testing: Experienced with Selenium,Playwright, Cucumber, BDD, and JUnit.
 - **Containerization:** Rely on Docker for packaging applications efficiently.
 - **CI/CD:** Utilize Jenkins and GitHub Actions to automate continuous integration and deployment processes.
 
