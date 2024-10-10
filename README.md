@@ -1,6 +1,5 @@
-### Hi there 👋 I am Seifeddin Tlijani Software Engineer
-
-I'm a 22-year-old tech enthusiast and second-year student at ENETCOM, deeply excited about anything related to technology. Currently seeking a summer internship to enhance my skills in software engineering, I have a strong interest in problem-solving, especially in web  development. Recently, I've been exploring the world of DevOps and its potential,Eager to collaborate, learn, and contribute to innovative projects
+### Hi there 👋 I am Seifeddin Tlijani, Software Engineer
+I'm a 22-year-old tech enthusiast and third-year student at ENETCOM, passionate about technology and software development. I am currently seeking a PFE internship to enhance my skills in software engineering and gain hands-on experience in real-world projects. My interests lie in problem-solving and web development, and I am particularly enthusiastic about Java/Spring and .NET technologies. Recently, I have been exploring the world of DevOps and its potential, and I'm eager to collaborate, learn, and contribute to innovative projects.
 
 <br>  
 🌱 I’m currently learning DevOps and QA engineering, including testing methodologies.
