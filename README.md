@@ -1,4 +1,4 @@
-###Hi there! 👋 I'm Seifeddin Tlijani, Software Engineer and Tech Enthusiast
+### Hi there! 👋 I'm Seifeddin Tlijani, Software Engineer and Tech Enthusiast
 I'm a 22-year-old software engineering student at ENETCOM, currently in my third year. Passionate about technology and software development, I'm seeking a PFE (Projet de Fin d'Études) internship to deepen my technical skills and gain hands-on experience with real-world projects. I thrive on solving complex problems and creating robust, scalable web applications.
 
 ###🌟 What I’m Excited About
