@@ -4,7 +4,7 @@ I'm a 22-year-old software engineering student at ENETCOM, currently in my third
 ### 🌟 What I’m Excited About
 My main interests are in web development and problem-solving, with a strong enthusiasm for Java/Spring and .NET technologies. Recently, I've been diving into DevOps to explore how it can streamline development workflows and improve software quality. I'm eager to collaborate, learn, and make meaningful contributions to innovative projects!
 
-###🌱 Current Learning Journey
+### 🌱 Current Learning Journey
 DevOps: Learning best practices in CI/CD, containerization, and automated deployments
 QA Engineering: Expanding my knowledge of testing methodologies, including automated testing and behavior-driven development (BDD)
 
