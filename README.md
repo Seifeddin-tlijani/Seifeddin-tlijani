@@ -100,7 +100,7 @@ I'm fascinated by the intersection of technology and creativity. My journey in s
 
 Currently working as a Software Engineer Intern , specializing in:
 - 🏗️ Developing scalable micro-frontends using Angular Module Federation
-- 🔄 Building resilient microservices with .NET and Spring Boot
+- 🔄 Building resilient microservices with .NET 
 - 🎯 Implementing distributed system architectures
 - 🌐 Creating modular and maintainable enterprise solutions
 - 💡 Advancing modern architectural patterns in full-stack development
