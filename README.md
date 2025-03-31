@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate 22-year-old software engineering student at ENETCOM in my third year, on a mission to build elegant solutions to complex problems. Currently seeking a **PFE (Projet de Fin d'Études)** internship to apply my skills in a real-world environment and contribute to innovative projects.
+Software Engineering student at ENETCOM currently working as a Software Engineer Intern at Primatec Engineering. Specialized in building robust enterprise applications using .NET and Angular. Passionate about creating efficient, scalable solutions with modern technology stacks.
 
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
@@ -96,15 +96,14 @@ I'm fascinated by the intersection of technology and creativity. My journey in s
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddin-tlijani&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-## 🔍 Looking For
+## 🔍 Professional Goals
 
-I'm currently seeking a **PFE internship opportunity** where I can:
-- 🚀 Work on challenging, real-world projects
-- 🌱 Grow my technical and professional skills
-- 🤝 Collaborate with experienced developers
-- 🔄 Apply my knowledge of web development and DevOps
-- 🎯 Make meaningful contributions to innovative solutions
-
+Currently working as a Software Engineer Intern , specializing in:
+- 🏗️ Developing scalable micro-frontends using Angular Module Federation
+- 🔄 Building resilient microservices with .NET and Spring Boot
+- 🎯 Implementing distributed system architectures
+- 🌐 Creating modular and maintainable enterprise solutions
+- 💡 Advancing modern architectural patterns in full-stack development
 ## 📬 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out!
