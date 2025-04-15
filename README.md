@@ -1,7 +1,9 @@
 # 👨‍💻 Seif Tlijani | Java & .NET Full-Stack Developer
 
 <div align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com](https://readme-typing-svg.herokuapp.com)?font=Fira+Code&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&height=100&lines=Java+Spring+Boot+Developer;.NET+Full-Stack+Engineer;Microservices+Architect;Angular+%26+React+Specialist" alt="Typing SVG" />
+  <a href="[https://git.io/typing-svg">](https://git.io/typing-svg">)
+    <img src="[https://readme-typing-svg.herokuapp.com](https://readme-typing-svg.herokuapp.com)?font=Fira+Code&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&height=100&lines=Java+Spring+Boot+Developer;.NET+Full-Stack+Engineer;Microservices+Architect;Angular+%26+React+Specialist" alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center">
@@ -113,7 +115,9 @@ I'm passionate about building robust backend systems and responsive frontends. M
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddin-tlijani&layout=compact&theme=tokyonight"](https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddin-tlijani&layout=compact&theme=tokyonight") alt="Top Languages" />
+  <a href="[https://github.com/Seifeddin-tlijani">](https://github.com/Seifeddin-tlijani">)
+    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddin-tlijani&layout=compact&theme=tokyonight"](https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddin-tlijani&layout=compact&theme=tokyonight") alt="Top Languages" />
+  </a>
 </div>
 
 ## 🔍 Professional Experience
