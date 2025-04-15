@@ -1,22 +1,10 @@
 # 👨‍💻 Seif Tlijani | Java & .NET Full-Stack Developer
 
-<div align="center">
-  <a href="[https://git.io/typing-svg">](https://git.io/typing-svg">)
-    <img src="[https://readme-typing-svg.herokuapp.com](https://readme-typing-svg.herokuapp.com)?font=Fira+Code&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&height=100&lines=Java+Spring+Boot+Developer;.NET+Full-Stack+Engineer;Microservices+Architect;Angular+%26+React+Specialist" alt="Typing SVG" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&height=100&lines=Java+Spring+Boot+Developer;.NET+Full-Stack+Engineer;Microservices+Architect;Angular+%26+React+Specialist)]([https://git.io/typing-svg)](https://git.io/typing-svg))
 
-<p align="center">
-  <a href="[https://www.linkedin.com/in/seif-tlijani-482897200/"](https://www.linkedin.com/in/seif-tlijani-482897200/") target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white") alt="LinkedIn"/>
-  </a>
-  <a href="mailto:seifeddin.tlijani@enetcom.u-sfax.tn">
-    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white") alt="Email"/>
-  </a>
-  <a href="[https://github.com/Seifeddin-tlijani">](https://github.com/Seifeddin-tlijani">)
-    <img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white") alt="GitHub"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-tlijani-482897200/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seifeddin.tlijani@enetcom.u-sfax.tn)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seifeddin-tlijani)
 
 ## 🚀 About Me
 
@@ -36,87 +24,53 @@ I'm passionate about building robust backend systems and responsive frontends. M
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
-  
 ### Java & Spring Ecosystem
-  
-<img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white") alt="Java"/>
-<img src="[https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white") alt="Spring"/>
-<img src="[https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white") alt="Spring Boot"/>
-<img src="[https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white") alt="Spring Cloud"/>
-<img src="[https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white"](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white") alt="Spring Security"/>
-<img src="[https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white") alt="Hibernate"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### .NET Ecosystem
-  
-<img src="[https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white") alt=".NET 8"/>
-<img src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white") alt="C#"/>
-<img src="[https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white") alt="ASP.NET Core"/>
-<img src="[https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white") alt="Entity Framework"/>
+### .NET Ecosystem  
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Frontend Technologies
-  
-<img src="[https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white") alt="Angular"/>
-<img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB") alt="React"/>
-<img src="[https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white") alt="TypeScript"/>
-<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black") alt="JavaScript"/>
-<img src="[https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white"](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white") alt="RxJS"/>
-<img src="[https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white") alt="Redux"/>
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Database & API
-  
-<img src="[https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white") alt="PostgreSQL"/>
-<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white") alt="MySQL"/>
-<img src="[https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white") alt="MongoDB"/>
-<img src="[https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black") alt="Swagger"/>
-<img src="[https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white") alt="JWT"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 ### DevOps & Testing
-  
-<img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white") alt="Docker"/>
-<img src="[https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white") alt="JUnit"/>
-<img src="[https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white"](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white") alt="Mockito"/>
-<img src="[https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white") alt="Jest"/>
-<img src="[https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white") alt="GitHub Actions"/>
-
-</div>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## 🌱 Current Focus Areas
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="[https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white") alt="Spring Cloud"/>
-        <br />
-        Implementing service discovery, API gateway, and circuit breakers
-      </td>
-      <td align="center">
-        <img src="[https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white"](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white") alt="Microservices"/>
-        <br />
-        Building distributed systems with Spring Boot and .NET 8
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="[https://img.shields.io/badge/Angular_Federation-DD0031?style=for-the-badge&logo=angular&logoColor=white"](https://img.shields.io/badge/Angular_Federation-DD0031?style=for-the-badge&logo=angular&logoColor=white") alt="Angular Federation"/>
-        <br />
-        Developing scalable micro-frontends with Module Federation
-      </td>
-      <td align="center">
-        <img src="[https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white"](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white") alt="OAuth2"/>
-        <br />
-        Implementing secure authentication flows with Spring Security
-      </td>
-    </tr>
-  </table>
-</div>
+| ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logoColor=white) |
+|:---:|:---:|
+| Implementing service discovery, API gateway, and circuit breakers | Building distributed systems with Spring Boot and .NET 8 |
+| ![Angular Federation](https://img.shields.io/badge/Angular_Federation-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white) |
+| Developing scalable micro-frontends with Module Federation | Implementing secure authentication flows with Spring Security |
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddin-tlijani&layout=compact&theme=tokyonight"](https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddin-tlijani&layout=compact&theme=tokyonight") alt="Top Languages" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddin-tlijani&layout=compact&theme=tokyonight)
 
 ## 🔍 Professional Experience
 
@@ -137,6 +91,4 @@ I'm always open to discussing Java, Spring Boot, .NET, or frontend development. 
 
 ---
 
-<div align="center">
-  <img src="[https://komarev.com/ghpvc/?username=Seifeddin-tlijani&style=flat-square&color=blue"](https://komarev.com/ghpvc/?username=Seifeddin-tlijani&style=flat-square&color=blue") alt="Profile views"/>
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Seifeddin-tlijani&style=flat-square&color=blue)
