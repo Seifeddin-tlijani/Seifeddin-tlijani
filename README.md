@@ -75,7 +75,7 @@ I'm passionate about building robust backend systems and responsive frontends. M
   
 <img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white") alt="Docker"/>
 <img src="[https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white") alt="JUnit"/>
-<img src="[https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white"](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white") alt="Mockito"/>
+<img src="[https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white"](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white") alt="Mockito"/>
 <img src="[https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white") alt="Jest"/>
 <img src="[https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white") alt="GitHub Actions"/>
 
@@ -92,7 +92,7 @@ I'm passionate about building robust backend systems and responsive frontends. M
         Implementing service discovery, API gateway, and circuit breakers
       </td>
       <td align="center">
-        <img src="[https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logoColor=white"](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logoColor=white") alt="Microservices"/>
+        <img src="[https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white"](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microservices&logoColor=white") alt="Microservices"/>
         <br />
         Building distributed systems with Spring Boot and .NET 8
       </td>
@@ -115,9 +115,7 @@ I'm passionate about building robust backend systems and responsive frontends. M
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="[https://github.com/Seifeddin-tlijani">](https://github.com/Seifeddin-tlijani">)
-    <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddin-tlijani&layout=compact&theme=tokyonight"](https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddin-tlijani&layout=compact&theme=tokyonight") alt="Top Languages" />
-  </a>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddin-tlijani&layout=compact&theme=tokyonight"](https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddin-tlijani&layout=compact&theme=tokyonight") alt="Top Languages" />
 </div>
 
 ## 🔍 Professional Experience
