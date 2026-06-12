@@ -2,9 +2,9 @@
 
 # Seif Tlijani
 
-### Full-Stack Software Engineer · Java · .NET · Angular
+### Full-Stack Software Engineer · Java · .NET · Angular · Telecom
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=650&height=60&lines=Spring+Boot+%7C+.NET+8+%7C+Angular;Microservices+%7C+REST+APIs+%7C+Spring+Cloud;Clean+Architecture+%7C+TDD+%7C+CI%2FCD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=700&height=60&lines=Spring+Boot+%7C+.NET+8+%7C+Angular;Microservices+%7C+REST+APIs+%7C+Spring+Cloud;TR-069+%7C+CWMP+%7C+Broadband+CPE+Validation;CI%2FCD+%7C+Docker+%7C+Jenkins+Automation)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-tlijani-482897200/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seifeddin.tlijani@enetcom.u-sfax.tn)
@@ -16,9 +16,9 @@
 
 ## About
 
-Telecommunications Engineering graduate from **ENETCOM Sfax**, specialized in full-stack development with Java/Spring Boot and .NET 8 ecosystems. I build production-grade, distributed applications — from secure REST APIs and microservices backends to responsive Angular frontends.
+Telecommunications Engineering graduate from **ENETCOM Sfax**, working at the intersection of full-stack software development and telecom systems engineering. I build production-grade distributed applications with Java/Spring Boot and .NET 8 — and I validate them at the protocol level.
 
-My engineering background gives me an edge in system-level thinking: I care about reliability, observability, and clean architecture at every layer of the stack.
+My background in broadband CPE validation (TR-069, TR-181, CWMP) gives me a rare dual perspective: I can architect a microservices backend *and* reason about what happens at the device provisioning layer. I care about reliability, observability, and correctness end to end.
 
 Currently open to **Software Engineer** roles in Europe (France, Germany) or internationally.
 
@@ -34,6 +34,7 @@ Currently open to **Software Engineer** roles in Europe (France, Germany) or int
 ![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -51,7 +52,7 @@ Currently open to **Software Engineer** roles in Europe (France, Germany) or int
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-### DevOps & Testing
+### DevOps & CI/CD
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -59,39 +60,47 @@ Currently open to **Software Engineer** roles in Europe (France, Germany) or int
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+### Telecom & Protocols
+![TR-069](https://img.shields.io/badge/TR--069-00599C?style=for-the-badge&logoColor=white)
+![TR-181](https://img.shields.io/badge/TR--181-0277BD?style=for-the-badge&logoColor=white)
+![CWMP](https://img.shields.io/badge/CWMP-1565C0?style=for-the-badge&logoColor=white)
+![CDRouter](https://img.shields.io/badge/CDRouter-FF6C37?style=for-the-badge&logoColor=white)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi_RvR-4CAF50?style=for-the-badge&logoColor=white)
+
 ---
 
 ## What I Build
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                     FULL-STACK ARCHITECTURE                     │
-├─────────────────────┬───────────────────────┬───────────────────┤
-│     FRONTEND        │       BACKEND          │    INFRA          │
-│                     │                        │                   │
-│  Angular 17+        │  Spring Boot / .NET 8  │  Docker           │
-│  RxJS Observables   │  REST APIs + OpenAPI   │  Jenkins CI/CD    │
-│  NgRx State Mgmt    │  Spring Cloud Gateway  │  GitHub Actions   │
-│  Module Federation  │  OAuth2 / JWT Auth     │  PostgreSQL       │
-│  Angular Material   │  Microservices mesh    │  MongoDB          │
-└─────────────────────┴───────────────────────┴───────────────────┘
+┌──────────────────────────────────────────────────────────────────────────┐
+│                        FULL-STACK + TELECOM                              │
+├───────────────────┬──────────────────────┬───────────────────────────────┤
+│    FRONTEND       │      BACKEND         │    TELECOM / VALIDATION        │
+│                   │                      │                               │
+│  Angular 17+      │  Spring Boot/.NET 8  │  TR-069 / CWMP Provisioning   │
+│  RxJS + NgRx      │  REST APIs + OpenAPI │  TR-181 Data Model Validation │
+│  Module Fed.      │  Spring Cloud GW     │  CDRouter Test Automation     │
+│  Angular Material │  OAuth2 / JWT        │  Wi-Fi RvR Testing            │
+│  React / Redux    │  Microservices mesh  │  Jenkins Pipeline CI/CD       │
+└───────────────────┴──────────────────────┴───────────────────────────────┘
 ```
 
-**Backend:** Design and implement RESTful APIs and microservices with Spring Boot or ASP.NET Core, secured with JWT/OAuth2, documented with OpenAPI/Swagger, and tested with JUnit + Mockito.
+**Backend:** RESTful APIs and microservices with Spring Boot or ASP.NET Core — secured, documented, and tested.
 
-**Frontend:** Build reactive Angular SPAs with RxJS, NgRx, and component-driven architecture — optimized for performance and maintainability.
+**Frontend:** Reactive Angular SPAs with RxJS, NgRx state management, and component-driven architecture.
 
-**Infrastructure:** Containerize with Docker, automate pipelines with Jenkins and GitHub Actions, and ship consistently across environments.
+**Telecom:** Broadband CPE firmware validation, TR-069/CWMP provisioning automation, CDRouter-based test pipelines for ISP-profile gateways.
 
 ---
 
 ## Focus Areas
 
 - **Microservices** — Service discovery, API Gateway, circuit breakers with Spring Cloud / Eureka / Resilience4j
-- **Security** — Spring Security, JWT authentication, OAuth2 flows, role-based access control
-- **Clean Architecture** — Hexagonal/layered patterns, SOLID principles, TDD with JUnit 5 and Mockito
-- **Reactive Frontend** — Angular with RxJS, lazy loading, standalone components, Module Federation for micro-frontends
-- **Cross-platform APIs** — REST + OpenAPI contracts shared across Java and .NET services
+- **Security** — Spring Security, JWT, OAuth2, role-based access control
+- **Clean Architecture** — Hexagonal/layered patterns, SOLID, TDD with JUnit 5 + Mockito
+- **Reactive Frontend** — Angular with RxJS, lazy loading, standalone components, Module Federation
+- **Telecom Protocols** — TR-069/TR-181 parameter trees, CWMP Inform flows, DHCPv4/v6, firmware upgrade automation
+- **Test Automation** — CDRouter scripted suites, Jenkins pipeline integration, failure diagnosis and reporting
 
 ---
 
@@ -108,16 +117,21 @@ Currently open to **Software Engineer** roles in Europe (France, Germany) or int
 
 ## Experience
 
+**Automation & Software Engineer — Sagemcom Tunisie (R&D)**
+- Broadband CPE validation for ISP-profile gateways (YouFibre F5598, BRSK) covering TR-069/CWMP, TR-181, Wi-Fi RvR, and TR-471/OB-UDPST
+- Built and maintained Jenkins CI/CD pipelines for firmware regression testing across device profiles
+- Developed CDRouter-based test automation suites with scripted failure diagnosis and reporting
+- Integrated Python tooling and FastAPI services into the test infrastructure
+
 **Software Engineer Intern — Primatec Engineering**
 - Built enterprise applications using Spring Boot and .NET 8 with microservices architecture
 - Implemented API security with JWT and OAuth2 via Spring Security
-- Developed Angular frontends with reactive state management
+- Developed Angular frontends with reactive state management (NgRx)
 - Wrote comprehensive test suites (JUnit, Mockito, Jest) following TDD practices
 - Set up CI/CD pipelines and Docker-based deployments
 
 **Software Engineer Intern — KPIT**
-- Contributed to backend services and integration modules
-- Worked on cross-functional teams in an agile environment
+- Contributed to backend services and integration modules in an agile team environment
 
 ---
 
@@ -129,9 +143,9 @@ Currently open to **Software Engineer** roles in Europe (France, Germany) or int
 
 ## Let's Connect
 
-I'm actively looking for **Software Engineer** opportunities, particularly in **France** and **Germany**.
+Open to **Software Engineer** and **Telecom/Systems Engineer** opportunities, particularly in **France**, **Germany**, and the **Gulf region**.
 
-Open to discussions about Java/Spring, .NET, Angular, system design, or anything full-stack.
+Happy to talk Java/Spring, .NET, Angular, broadband protocols, or system design.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-tlijani-482897200/)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seifeddin.tlijani@enetcom.u-sfax.tn)
