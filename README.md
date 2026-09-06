@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-Software Engineering student at ENETCOM with expertise in Java Spring Boot and .NET 8 development. Currently working as a Software Engineer Intern at Primatec Engineering, building enterprise applications with microservices architecture. Passionate about creating efficient, scalable solutions with Spring Cloud, Angular, and React.
+I'm a Software Engineer specializing in the Java ecosystem and .NET. I care about writing code that scales and stays maintainable — combining Spring Cloud, Angular, and React to ship solutions that are as efficient under the hood as they are seamless for users.
 
-> "The best code is no code at all. Every new line of code you willingly bring into the world is code that has to be debugged, code that has to be read and understood, and code that has to be supported." – Jeff Atwood
+> "Quality is not an act, it is a habit." – Aristotle
 
 ## 💡 What Drives Me
 
