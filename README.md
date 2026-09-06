@@ -10,7 +10,7 @@
 
 I'm a Software Engineer specializing in the Java ecosystem and .NET. I care about writing code that scales and stays maintainable — combining Spring Cloud, Angular, and React to ship solutions that are as efficient under the hood as they are seamless for users.
 
-> "Quality is not an act, it is a habit." – Aristotle
+"Quality is not an act, it is a habit." – Aristotle
 
 ## 💡 What Drives Me
 
