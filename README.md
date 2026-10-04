@@ -36,7 +36,12 @@ Software engineer with a telecommunications engineering degree (ENETCOM, Sfax) a
 - **Test automation:** Playwright, Selenium, BDD / Gherkin, JUnit, Mockito, Jest, pytest
 - **Data:** PostgreSQL, MySQL, SQL Server, MongoDB
 - **Security & APIs:** REST, Swagger / OpenAPI, JWT, OAuth2
-- **DevOps & Cloud:** Docker, Jenkins, GitHub Actions, AWS (Lambda, S3, Bedrock)
+- **DevOps:** Docker, Jenkins, GitHub Actions
+- **AWS:** EC2, Lambda, S3, API Gateway, Bedrock, ECS, EKS, ALB
+
+<p align="center">
+  <img src="assets/aws-services.svg" width="100%" alt="AWS services: EC2, Lambda, S3, API Gateway, Bedrock, ECS, EKS, ALB">
+</p>
 
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Currently exploring AI agents, microservices and micro-frontends. Contact: seifeddin.tlijani@enetcom.u-sfax.tn, linkedin.com/in/seif-tlijani-482897200">
