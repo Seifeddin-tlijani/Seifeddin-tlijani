@@ -24,17 +24,19 @@ Software engineer with a telecommunications engineering degree (ENETCOM, Sfax) a
 
 ## What I Do
 
-<p align="center">
-  <img src="assets/what-software.svg" width="32%" alt="Software Engineering: backend services, REST APIs and microservices with modular frontends in Java and .NET">
-  <img src="assets/what-ai.svg" width="32%" alt="AI / LLM Engineering: RAG pipelines, LLM integration, cloud AI services and local models with Ollama">
-  <img src="assets/what-testing.svg" width="32%" alt="Test Automation: end-to-end and API test automation, BDD and CI-integrated test pipelines">
-</p>
+- **Software engineering**: I design and build backend services, REST APIs, and microservices, with modular frontends, in Java (Spring Boot) and .NET 8.
+- **AI / LLM engineering**: I build RAG pipelines and LLM-powered tools with LangChain, FAISS, Ollama, and cloud AI services such as Amazon Bedrock.
+- **Test automation**: I write end-to-end and API tests (Playwright, Selenium, BDD) and integrate them into CI pipelines.
 
 ## Tech Stack
 
-<p align="center">
-  <img src="assets/stack-map.svg" width="100%" alt="Tech stack by layer: Frontend, Security and APIs, Backend, AI and LLM, Data, Test automation, DevOps and cloud">
-</p>
+- **Backend:** Java, Spring Boot, Spring Security, Spring Cloud, Hibernate · C#, .NET 8, ASP.NET Core, Entity Framework · Python, Django · Node.js, Express
+- **Frontend:** Angular, React, TypeScript, JavaScript, RxJS, Module Federation
+- **AI / LLM:** LangChain, RAG, FAISS, Ollama, Amazon Bedrock
+- **Test automation:** Playwright, Selenium, BDD / Gherkin, JUnit, Mockito, Jest, pytest
+- **Data:** PostgreSQL, MySQL, SQL Server, MongoDB
+- **Security & APIs:** REST, Swagger / OpenAPI, JWT, OAuth2
+- **DevOps & Cloud:** Docker, Jenkins, GitHub Actions, AWS (Lambda, S3, Bedrock)
 
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Currently exploring AI agents, microservices and micro-frontends. Contact: seifeddin.tlijani@enetcom.u-sfax.tn, linkedin.com/in/seif-tlijani-482897200">
