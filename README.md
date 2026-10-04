@@ -36,13 +36,10 @@ Software engineer with a telecommunications engineering degree (ENETCOM, Sfax) a
   <img src="assets/stack-map.svg" width="100%" alt="Tech stack by layer: Frontend, Security and APIs, Backend, AI and LLM, Data, Test automation, DevOps and cloud">
 </p>
 
-## Currently Exploring
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Currently exploring AI agents, microservices and micro-frontends. Contact: seifeddin.tlijani@enetcom.u-sfax.tn, linkedin.com/in/seif-tlijani-482897200">
+</p>
 
-- AI agents and agentic UIs (Angular, LangGraph)
-- Microservices patterns: service discovery, API gateway, circuit breakers
-- Micro-frontends with Angular Module Federation
-
-## Contact
-
-- Email: [seifeddin.tlijani@enetcom.u-sfax.tn](mailto:seifeddin.tlijani@enetcom.u-sfax.tn)
-- LinkedIn: [Seif Tlijani](https://www.linkedin.com/in/seif-tlijani-482897200/)
+<p align="center">
+  <a href="mailto:seifeddin.tlijani@enetcom.u-sfax.tn">Email</a> · <a href="https://www.linkedin.com/in/seif-tlijani-482897200/">LinkedIn</a>
+</p>
