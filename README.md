@@ -42,27 +42,6 @@ Software engineer with a telecommunications engineering degree (ENETCOM, Sfax) a
 | **Security & APIs** | REST, Swagger/OpenAPI, JWT, OAuth2 |
 | **DevOps & Cloud** | Docker, Jenkins, GitHub Actions, AWS (Lambda, S3, Bedrock) |
 
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Seifeddin-tlijani/TaskTracker"><img src="assets/card-tasktracker.svg" width="48%" alt="TaskTracker"></a>
-  <a href="https://github.com/Seifeddin-tlijani/CloudOps-Bedrock-S3"><img src="assets/card-cloudops.svg" width="48%" alt="CloudOps-Bedrock-S3"></a>
-</p>
-
-<p align="center">
-  <img src="assets/card-rag.svg" width="48%" alt="CDRouter RAG Assistant">
-  <a href="https://github.com/Seifeddin-tlijani/invoice-automation-pro"><img src="assets/card-invoice.svg" width="48%" alt="Invoice Automation Pro"></a>
-</p>
-
-<p align="center">
-  <img src="assets/card-odoo.svg" width="48%" alt="Odoo Leave Management">
-  <img src="assets/card-kpit.svg" width="48%" alt="Microservices Forms Platform">
-</p>
-
-<p align="center">
-  <sub>More: <a href="https://github.com/Seifeddin-tlijani/taskRoomApp-backend">taskRoomApp-backend</a> (Node.js, Express, MongoDB) · <a href="https://github.com/prplfoundation/prplMesh">prplMesh</a> (merged open-source contribution)</sub>
-</p>
-
 ## Currently Exploring
 
 - AI agents and agentic UIs (Angular, LangGraph)
