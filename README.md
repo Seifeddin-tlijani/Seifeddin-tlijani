@@ -40,10 +40,6 @@ Software engineer with a telecommunications engineering degree (ENETCOM, Sfax) a
 - **AWS:** EC2, Lambda, S3, API Gateway, Bedrock, ECS, EKS, ALB
 
 <p align="center">
-  <img src="assets/aws-services.svg" width="100%" alt="AWS services: EC2, Lambda, S3, API Gateway, Bedrock, ECS, EKS, ALB">
-</p>
-
-<p align="center">
   <img src="assets/footer.svg" width="100%" alt="Currently exploring AI agents, microservices and micro-frontends. Contact: tlijaniseif800@gmail.com, linkedin.com/in/seif-tlijani-482897200">
 </p>
 
