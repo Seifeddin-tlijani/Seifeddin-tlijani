@@ -24,7 +24,7 @@ Software engineer with a telecommunications engineering degree (ENETCOM, Sfax) a
 
 ## What I Do
 
-| | |
+| Focus | What I build |
 |---|---|
 | **Software engineering** | Backend services, REST APIs, microservices, and modular frontends in Java and .NET |
 | **AI / LLM engineering** | RAG pipelines, LLM integration, cloud AI services (Amazon Bedrock), local models with Ollama |
@@ -44,18 +44,24 @@ Software engineer with a telecommunications engineering degree (ENETCOM, Sfax) a
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**TaskTracker**](https://github.com/Seifeddin-tlijani/TaskTracker) | Kanban-style project management app with authentication, RESTful API and unit tests | C#, .NET, Angular, SQL Server, EF Core |
-| [**CloudOps-Bedrock-S3**](https://github.com/Seifeddin-tlijani/CloudOps-Bedrock-S3) | Serverless AI app: API Gateway and Lambda call Amazon Bedrock and store/retrieve data in S3 | AWS Lambda, Bedrock, S3, API Gateway |
-| [**taskRoomApp-backend**](https://github.com/Seifeddin-tlijani/taskRoomApp-backend) | Task management REST API | Node.js, Express, MongoDB |
+<p align="center">
+  <a href="https://github.com/Seifeddin-tlijani/TaskTracker"><img src="assets/card-tasktracker.svg" width="48%" alt="TaskTracker"></a>
+  <a href="https://github.com/Seifeddin-tlijani/CloudOps-Bedrock-S3"><img src="assets/card-cloudops.svg" width="48%" alt="CloudOps-Bedrock-S3"></a>
+</p>
 
-## Experience Highlights
+<p align="center">
+  <img src="assets/card-rag.svg" width="48%" alt="CDRouter RAG Assistant">
+  <a href="https://github.com/Seifeddin-tlijani/invoice-automation-pro"><img src="assets/card-invoice.svg" width="48%" alt="Invoice Automation Pro"></a>
+</p>
 
-- **Software Engineer Intern, Primatec Engineering**: enterprise applications with Spring Boot and .NET 8, microservices with Spring Cloud, API security with JWT and OAuth2, modular frontends with Angular and React.
-- **Final-year project, KPIT (Feb–May 2025)**: modular system on a .NET 8 microservices architecture with an Angular 19 micro-frontend for dynamic table and form generation.
-- **Network validation and QA automation**: automated test campaigns on networking equipment, plus an internal **RAG chatbot** (Ollama, LangChain, FAISS) that answers questions about the CDRouter testing platform.
-- **Open source**: contribution merged into [prplMesh](https://github.com/prplfoundation/prplMesh) (open-source mesh Wi-Fi).
+<p align="center">
+  <img src="assets/card-odoo.svg" width="48%" alt="Odoo Leave Management">
+  <img src="assets/card-kpit.svg" width="48%" alt="Microservices Forms Platform">
+</p>
+
+<p align="center">
+  <sub>More: <a href="https://github.com/Seifeddin-tlijani/taskRoomApp-backend">taskRoomApp-backend</a> (Node.js, Express, MongoDB) · <a href="https://github.com/prplfoundation/prplMesh">prplMesh</a> (merged open-source contribution)</sub>
+</p>
 
 ## Currently Exploring
 
