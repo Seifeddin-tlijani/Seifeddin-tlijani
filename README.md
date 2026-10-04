@@ -1,69 +1,94 @@
-<p align="center">
-  <img src="assets/header.svg" alt="Seif Tlijani, Software Engineer: Full-Stack, AI and LLM, Test Automation, DevOps" width="100%">
-</p>
+# 👨‍💻 Seif Tlijani | Java & .NET Full-Stack Developer
 
-<p align="center">
-  <b>Software Engineer</b> · Full-Stack · AI / LLM · Test Automation<br>
-  Tunisia · Open to new opportunities
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&height=100&lines=Java+Spring+Boot+Developer;.NET+Full-Stack+Engineer;Microservices+Architect;Angular+%26+React+Specialist)]([https://git.io/typing-svg)](https://git.io/typing-svg))
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/seif-tlijani-482897200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:seifeddin.tlijani@enetcom.u-sfax.tn"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seif-tlijani-482897200/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seifeddin.tlijani@enetcom.u-sfax.tn)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seifeddin-tlijani)
 
-<p align="center">
-  <img src="assets/stack.svg" alt="Tech stack" width="100%">
-</p>
+## 🚀 About Me
+
+I'm a Software Engineer specializing in the Java ecosystem and .NET. I care about writing code that scales and stays maintainable — combining Spring Cloud, Angular, and React to ship solutions that are as efficient under the hood as they are seamless for users.
+
+> "Quality is not an act, it is a habit." – Aristotle
+
+## 💡 What Drives Me
+
+I'm passionate about building robust backend systems and responsive frontends. My development journey is fueled by:
+
+- 🔒 Implementing secure, scalable REST APIs with Spring Boot and Spring Security
+- 🌐 Creating microservices architectures with Spring Cloud and .NET 8
+- 🖥️ Developing responsive UIs with Angular and React
+- 🧪 Practicing test-driven development with JUnit, Mockito, and Jest
+- 🔄 Implementing CI/CD pipelines for Java and .NET applications
+
+## 🛠️ Tech Arsenal
+
+### Java & Spring Ecosystem
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### .NET Ecosystem  
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Frontend Technologies
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### Database & API
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+### DevOps & Testing
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+## 🌱 Current Focus Areas
+
+| ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logoColor=white) |
+|:---:|:---:|
+| Implementing service discovery, API gateway, and circuit breakers | Building distributed systems with Spring Boot and .NET 8 |
+| ![Angular Federation](https://img.shields.io/badge/Angular_Federation-DD0031?style=for-the-badge&logo=angular&logoColor=white) | ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white) |
+| Developing scalable micro-frontends with Module Federation | Implementing secure authentication flows with Spring Security |
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seifeddin-tlijani&layout=compact&theme=tokyonight)
+
+## 🔍 Professional Experience
+
+Currently working as a Software Engineer Intern at Primatec Engineering, focusing on:
+- 🏗️ Building enterprise-grade applications with Spring Boot and .NET 8
+- 🔄 Implementing microservices communication patterns with Spring Cloud
+- 🔒 Securing APIs with JWT authentication and OAuth2
+- 🖥️ Developing modular frontends with Angular and React
+- 🧪 Practicing test-driven development with comprehensive test coverage
+- 📊 Working with relational and NoSQL databases for optimal data storage
+
+## 📬 Let's Connect!
+
+I'm always open to discussing Java, Spring Boot, .NET, or frontend development. Feel free to reach out!
+
+- 📧 **Email:** seifeddin.tlijani@enetcom.u-sfax.tn
+- 🔗 **LinkedIn:** [Seif Tlijani](https://www.linkedin.com/in/seif-tlijani-482897200/)
 
 ---
 
-## About
-
-Software engineer with a telecommunications engineering degree (ENETCOM, Sfax) and a background in network validation and QA automation. I build REST APIs and microservices with **Spring Boot** and **.NET 8**, modular frontends with **Angular** and **React**, and LLM-powered tools (RAG, agents) with **Python** and **LangChain**. I care about code that is tested, automated, and easy to maintain.
-
-## What I Do
-
-| | |
-|---|---|
-| **Software engineering** | Backend services, REST APIs, microservices, and modular frontends in Java and .NET |
-| **AI / LLM engineering** | RAG pipelines, LLM integration, cloud AI services (Amazon Bedrock), local models with Ollama |
-| **Test automation** | End-to-end and API test automation, BDD, CI-integrated test pipelines |
-
-## Tech Stack
-
-| Area | Technologies |
-|---|---|
-| **Backend** | Java, Spring Boot, Spring Security, Spring Cloud, Hibernate · C#, .NET 8, ASP.NET Core, Entity Framework · Python, Django · Node.js, Express |
-| **Frontend** | Angular (RxJS, Module Federation), React, TypeScript, JavaScript |
-| **AI / LLM** | LangChain, RAG, FAISS, Ollama, Amazon Bedrock |
-| **Test automation** | Playwright, Selenium, BDD / Gherkin, JUnit, Mockito, Jest, pytest |
-| **Data** | PostgreSQL, MySQL, SQL Server, MongoDB |
-| **Security & APIs** | REST, Swagger/OpenAPI, JWT, OAuth2 |
-| **DevOps & Cloud** | Docker, Jenkins, GitHub Actions, AWS (Lambda, S3, Bedrock) |
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**TaskTracker**](https://github.com/Seifeddin-tlijani/TaskTracker) | Kanban-style project management app with authentication, RESTful API and unit tests | C#, .NET, Angular, SQL Server, EF Core |
-| [**CloudOps-Bedrock-S3**](https://github.com/Seifeddin-tlijani/CloudOps-Bedrock-S3) | Serverless AI app: API Gateway and Lambda call Amazon Bedrock and store/retrieve data in S3 | AWS Lambda, Bedrock, S3, API Gateway |
-| [**taskRoomApp-backend**](https://github.com/Seifeddin-tlijani/taskRoomApp-backend) | Task management REST API | Node.js, Express, MongoDB |
-
-## Experience Highlights
-
-- **Software Engineer Intern, Primatec Engineering**: enterprise applications with Spring Boot and .NET 8, microservices with Spring Cloud, API security with JWT and OAuth2, modular frontends with Angular and React.
-- **Final-year project, KPIT (Feb–May 2025)**: modular system on a .NET 8 microservices architecture with an Angular 19 micro-frontend for dynamic table and form generation.
-- **Network validation and QA automation**: automated test campaigns on networking equipment, plus an internal **RAG chatbot** (Ollama, LangChain, FAISS) that answers questions about the CDRouter testing platform.
-- **Open source**: contribution merged into [prplMesh](https://github.com/prplfoundation/prplMesh) (open-source mesh Wi-Fi).
-
-## Currently Exploring
-
-- AI agents and agentic UIs (Angular, LangGraph)
-- Microservices patterns: service discovery, API gateway, circuit breakers
-- Micro-frontends with Angular Module Federation
-
-## Contact
-
-- Email: [seifeddin.tlijani@enetcom.u-sfax.tn](mailto:seifeddin.tlijani@enetcom.u-sfax.tn)
-- LinkedIn: [Seif Tlijani](https://www.linkedin.com/in/seif-tlijani-482897200/)
+![Profile Views](https://komarev.com/ghpvc/?username=Seifeddin-tlijani&style=flat-square&color=blue)
